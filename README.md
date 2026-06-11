@@ -9,7 +9,6 @@ This project explores customer shopping behavior using an unclean dataset of ret
 - pandas
 - numpy
 - matplotlib
-- seaborn
 - Power BI (for visualization)
 
 ## Project Structure
